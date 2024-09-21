@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b43002724f50bf145931988c2439b066
+guid: 849cac808957d0f4db6747f53117d253
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,127 +110,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spr_player_right_walk_0
+      name: spr_Blue_slime_idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.4}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f429952c70b35c44bae43b4c21168a5
-      internalID: 287223121
+      spriteID: 2084d5246a39674449fcecd2c5e2c1b2
+      internalID: 52160356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_player_right_walk_1
+      name: spr_Blue_slime_idle_1
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.4}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5993317bf66bdbe4e834ef2727ee12f8
-      internalID: -1685206086
+      spriteID: 5b4d9c5ce3d3ffe42948d842ddeae566
+      internalID: 1399512384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_player_right_walk_2
+      name: spr_Blue_slime_idle_2
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.4}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fae1e19a57a0aa247b44548669a53962
-      internalID: 1942067587
+      spriteID: 6c4a4ca085ff6b6499cac3e56733e0cd
+      internalID: 1923482349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_player_right_walk_3
+      name: spr_Blue_slime_idle_3
       rect:
         serializedVersion: 2
         x: 192
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.4}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e9acc369e5772d4d95ba9c01f33f420
-      internalID: 530380926
+      spriteID: 8b5d8a0e5400ef14baa4c15101003ca5
+      internalID: -1254791366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_player_right_walk_4
+      name: spr_Blue_slime_idle_4
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.41}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d7c09c10ed680742b8bc596bdaa09d1
-      internalID: 1629715039
+      spriteID: 206784a0ff3139944bad50649836ccf6
+      internalID: -168070760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_player_right_walk_5
+      name: spr_Blue_slime_idle_5
       rect:
         serializedVersion: 2
         x: 320
         y: 0
         width: 64
         height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.4}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 850e53a61283fad4cb613da6a8bf74dc
-      internalID: -1503706769
+      spriteID: 85ae03c2fcab2fb48a9678399abb7aa8
+      internalID: 1562888238
       vertices: []
       indices: 
       edges: []
@@ -246,12 +246,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      spr_player_right_walk_0: 287223121
-      spr_player_right_walk_1: -1685206086
-      spr_player_right_walk_2: 1942067587
-      spr_player_right_walk_3: 530380926
-      spr_player_right_walk_4: 1629715039
-      spr_player_right_walk_5: -1503706769
+      spr_Blue_slime_idle_0: 52160356
+      spr_Blue_slime_idle_1: 1399512384
+      spr_Blue_slime_idle_2: 1923482349
+      spr_Blue_slime_idle_3: -1254791366
+      spr_Blue_slime_idle_4: -168070760
+      spr_Blue_slime_idle_5: 1562888238
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
